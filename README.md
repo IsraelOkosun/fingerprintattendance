@@ -1,5 +1,5 @@
-# theEvansFinger
-The Evans Finger is a desktop application using Digital Persona UAREU 4500. <br>
+# Fingerprint Attendance Management System
+The is a desktop application using Digital Persona UAREU 4500. <br>
 The functionality of the system is track the attendance of the students <br>
 The following are the modules presents <br>
 <h3>Admin</h3>
